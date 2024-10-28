@@ -1,0 +1,21 @@
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker_Content.g.cs
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker_MarkupCompile.cache
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker_MarkupCompile.lref
+C:\Users\Victus\source\repos\Counter + Color Picker\bin\Debug\net8.0-windows\Counter + Color Picker.exe
+C:\Users\Victus\source\repos\Counter + Color Picker\bin\Debug\net8.0-windows\Counter + Color Picker.deps.json
+C:\Users\Victus\source\repos\Counter + Color Picker\bin\Debug\net8.0-windows\Counter + Color Picker.runtimeconfig.json
+C:\Users\Victus\source\repos\Counter + Color Picker\bin\Debug\net8.0-windows\Counter + Color Picker.dll
+C:\Users\Victus\source\repos\Counter + Color Picker\bin\Debug\net8.0-windows\Counter + Color Picker.pdb
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker.g.resources
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker.AssemblyInfo.cs
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker.dll
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\refint\Counter + Color Picker.dll
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker.pdb
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\Counter + Color Picker.genruntimeconfig.cache
+C:\Users\Victus\source\repos\Counter + Color Picker\obj\Debug\net8.0-windows\ref\Counter + Color Picker.dll

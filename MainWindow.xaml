@@ -1,0 +1,24 @@
+﻿<Window x:Class="Counter___Color_Picker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Counter___Color_Picker"
+        mc:Ignorable="d"
+        Title="Color Picker + Counter" Height="450" Width="800">
+    <Grid x:Name="MainGrid">
+        <TextBlock Text="Press the button to increase or decrease the value!" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Button Content="&lt;" Width="40" Click="DecreaseButton"/>
+            <TextBlock x:Name="ValueText" Text="{Binding userText}" FontSize="22" FontWeight="Bold"/>
+            <Button Content=">" Width="40" Click="IncreaseButton"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+            <Button Content="Green" Width="50" Click="ChangeGreen" />
+            <Button Content="Blue" Width="50" Click="ChangeBlue" />
+            <Button Content="Yellow" Width="50" Click="ChangeYellow" />
+        </StackPanel>
+    </Grid>
+</Window>
